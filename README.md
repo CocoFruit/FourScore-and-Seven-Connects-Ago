@@ -1,6 +1,5 @@
 # FourScore-and-Seven-Connects-Ago: A Connect Four Game with Negamax AI
-This is a Python program that allows users to play Connect Four game against an AI agent that uses the Negamax algorithm called FourScore-and-Seven-Connects-Ago.
-
+This is a Python program that allows users to play Connect Four game against an AI agent that uses aa Negamax algorithm. I built this in September 2022.
 ## Requirements
 Python 3.x  
 numpy  
